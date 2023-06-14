@@ -19,6 +19,9 @@
 		774B23F92A37696500539371 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774B23F82A37696500539371 /* MapView.swift */; };
 		774B24012A3778C900539371 /* LandMarkListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774B24002A3778C900539371 /* LandMarkListView.swift */; };
 		77A447E12A38A7DA0036DA9A /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A447E02A38A7DA0036DA9A /* HomePage.swift */; };
+		77A8A1342A3A24CF00BCAE9C /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = 77A8A1332A3A24CF00BCAE9C /* ReadMe.md */; };
+		77A8A1362A3A2B4800BCAE9C /* response.json in Resources */ = {isa = PBXBuildFile; fileRef = 77A8A1352A3A2B4800BCAE9C /* response.json */; };
+		77A8A1382A3A2BDA00BCAE9C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 77A8A1372A3A2BDA00BCAE9C /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +39,9 @@
 		774B23F82A37696500539371 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		774B24002A3778C900539371 /* LandMarkListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandMarkListView.swift; sourceTree = "<group>"; };
 		77A447E02A38A7DA0036DA9A /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
+		77A8A1332A3A24CF00BCAE9C /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
+		77A8A1352A3A2B4800BCAE9C /* response.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = response.json; sourceTree = "<group>"; };
+		77A8A1372A3A2BDA00BCAE9C /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +58,9 @@
 		7707678C2A3711A20046FDFF = {
 			isa = PBXGroup;
 			children = (
+				77A8A1352A3A2B4800BCAE9C /* response.json */,
+				77A8A1372A3A2BDA00BCAE9C /* .gitignore */,
+				77A8A1332A3A24CF00BCAE9C /* ReadMe.md */,
 				770767972A3711A20046FDFF /* land_marks */,
 				770767962A3711A20046FDFF /* Products */,
 			);
@@ -177,6 +186,9 @@
 			files = (
 				770767A52A3711A40046FDFF /* LaunchScreen.storyboard in Resources */,
 				770767A22A3711A40046FDFF /* Preview Assets.xcassets in Resources */,
+				77A8A1342A3A24CF00BCAE9C /* ReadMe.md in Resources */,
+				77A8A1362A3A2B4800BCAE9C /* response.json in Resources */,
+				77A8A1382A3A2BDA00BCAE9C /* .gitignore in Resources */,
 				7707679F2A3711A40046FDFF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

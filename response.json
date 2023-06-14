@@ -1,0 +1,94 @@
+{
+	"code": 200,
+	"data": [{
+			"name": "Big Ben",
+			"locationCity": "London",
+			"locationContry": "England",
+			"imagePath": "BigBen",
+			"isFavorite": true,
+			"latitude": 51.5007042,
+			"longtitude": -0.1245721,
+			"catagory": "ancient"
+		},
+		{
+			"name": "Khalifa Building",
+			"locationCity": "Dubai",
+			"locationContry": "Arab",
+			"imagePath": "Burj_Khalifa",
+			"isFavorite": true,
+			"latitude": 25.1970306,
+			"longtitude": 55.2742216,
+			"catagory": "modern"
+		},
+		{
+			"name": "Eifel Tower",
+			"locationCity": "Paris",
+			"locationContry": "France",
+			"imagePath": "EifelTower",
+			"isFavorite": true,
+			"latitude": 48.8582602,
+			"longtitude": 2.2944990,
+			"catagory": "ancient"
+		},
+		{
+			"name": "Empire State Building",
+			"locationCity": "New York",
+			"locationContry": "America",
+			"imagePath": "EmpireState",
+			"isFavorite": true,
+			"latitude": 40.74844205,
+			"longtitude": -73.9856589,
+			"catagory": "modern"
+		},
+		{
+			"name": "Great Wall",
+			"locationCity": "Beijing",
+			"locationContry": "China",
+			"imagePath": "GreatWall",
+			"isFavorite": true,
+			"latitude": 40.4319077,
+			"longtitude": 116.5703749,
+			"catagory": "ancient"
+		},
+		{
+			"name": "Liberty",
+			"locationCity": "New York",
+			"locationContry": "America",
+			"imagePath": "Liberty",
+			"isFavorite": false,
+			"latitude": 40.6892532,
+			"longtitude": -74.0445481,
+			"catagory": "modern"
+		},
+		{
+			"name": "Parthenon Temple",
+			"locationCity": "Acropolis of Athens",
+			"locationContry": "Greece",
+			"imagePath": "Parthenon",
+			"isFavorite": false,
+			"latitude": 37.97150335,
+			"longtitude": 23.72661765,
+			"catagory": "religious"
+		},
+		{
+			"name": "St Peter Basilica",
+			"locationCity": "Vaticano",
+			"locationContry": "Vaticano",
+			"imagePath": "StPeterBasilica",
+			"isFavorite": false,
+			"latitude": 41.9021569,
+			"longtitude": 12.45371206,
+			"catagory": "religious"
+		},
+		{
+			"name": "Vienna Opera",
+			"locationCity": "Vienna",
+			"locationContry": "Austria",
+			"imagePath": "Vienna",
+			"isFavorite": false,
+			"latitude": 48.20328595,
+			"longtitude": 16.369193411595,
+			"catagory": "modern"
+		}
+	]
+}
