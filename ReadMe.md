@@ -5,11 +5,11 @@ This App can display well-known landmarks. Users can sort landmarks with categor
 Swft + SwiftUI
 
 ## Screen Shots
-<img width="300" alt="screen-1" src="https://github.com/chris-wang15/Landmarks_iOS/assets/128122102/a34c8b6c-bba7-4c93-ab87-fb1ab49072d5">
+<img width="250" alt="screen-1" src="https://github.com/chris-wang15/Landmarks_iOS/assets/128122102/a34c8b6c-bba7-4c93-ab87-fb1ab49072d5">
 
-<img width="288" alt="screen-2" src="https://github.com/chris-wang15/Landmarks_iOS/assets/128122102/efd0cc04-7787-4026-b281-bf6be7414ef6">
+<img width="238" alt="screen-2" src="https://github.com/chris-wang15/Landmarks_iOS/assets/128122102/efd0cc04-7787-4026-b281-bf6be7414ef6">
 
-<img width="298" alt="screen-3" src="https://github.com/chris-wang15/Landmarks_iOS/assets/128122102/b1921e31-13a9-43e3-8886-7c9213cd21b1">
+<img width="248" alt="screen-3" src="https://github.com/chris-wang15/Landmarks_iOS/assets/128122102/b1921e31-13a9-43e3-8886-7c9213cd21b1">
 
 
 ## Network Request
